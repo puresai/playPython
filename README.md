@@ -1,11 +1,7 @@
-﻿# PythonST
+﻿# playPython
 
-a simple tutorial about Python
+enjoy Python
 
 ---
 
-学习Python的笔记。
-
-
-
-
+玩转Python
