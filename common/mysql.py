@@ -14,6 +14,7 @@ class MySQL:
         'charset' :"utf8"
     }
 
+    
     def __init__(self):
         self.__connect()
 
